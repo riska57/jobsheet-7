@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Novita Sari"
+        android:textAlignment="textstart"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3022"
+        android:textAlignment="textstart"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nur Izza"
+        android:textAlignment="textstart"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3024"
+        android:textAlignment="textstart"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:background="#00FF00"
+        android:text="Riska Anggun Anggriani"
+        android:textAlignment="textstart"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00FF00"
+        android:text="3026"
+        android:textAlignment="textstart"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="87dp"
+        android:text="Sahrul Lukman Hakim"
+        android:textAlignment="textstart"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3027"
+        android:textAlignment="textstart"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="422dp"
+        android:layout_height="wrap_content"
+        android:text="Setya Neng Rahayu"
+        android:textAlignment="textstart"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="3030"
+        android:textAlignment="textstart"
+        android:textSize="30dp" />
+
+
+</LinearLayout>
